@@ -1,0 +1,20 @@
+{
+    "pokemon": [
+        {
+            "Pokemon1": {
+                "species": "Species",
+                "move1": "Tackle",
+                "move2": "Tackle",
+                "move3": "Tackle",
+                "move4": "Tackle"
+            },
+            "Pokemon2": {
+                "species": "Species",
+                "move1": "Tackle",
+                "move2": "Tackle",
+                "move3": "Tackle",
+                "move4": "Tackle"
+            }
+        }
+    ]
+}
